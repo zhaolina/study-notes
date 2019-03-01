@@ -68,3 +68,5 @@
 2. Buffer 跟字符串怎么转换 ？
 3. Buffer 能拼接吗 ？ 有什么性能特点 ？
 4. Buffer 对性能有影响吗 ？
+
+![理解 Buffer](./img/理解%20Buffer.png)
