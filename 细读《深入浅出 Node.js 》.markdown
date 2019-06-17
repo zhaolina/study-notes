@@ -15,7 +15,7 @@
 3. Node 有什么特点 ？     
 4. Node 的应用场景有哪些 ？          
 
-![Node 简介](./img/Node%20简介.png)
+![Node 简介](http://ww1.sinaimg.cn/large/006tNc79ly1g44e0t5x19j32el0u0dxy.jpg)
 
 ## 模块机制
 
@@ -25,7 +25,7 @@
 2. 模块在引用过程中的编译、加载规则是什么
 3. Node 源代码结构是什么
 
-![模块机制](./img/模块机制.png)
+![模块机制](http://ww2.sinaimg.cn/large/006tNc79ly1g44e1srzgyj31tu0u0kjl.jpg)
 
 ## 异步 I/O
 
@@ -35,7 +35,7 @@
 2. 非阻塞 I/O 和异步 I/O 有什么区别？
 3. Node 是怎么实现异步 I/O 的？
 
-![异步I/O](./img/异步%20I_O.png)
+![异步I/O](http://ww3.sinaimg.cn/large/006tNc79ly1g44e24ilvfj326g0n6q9c.jpg)
 
 ## 异步编程
 
@@ -46,7 +46,7 @@
 3. 异步编程的解决方案 ？
 4. 异步并发控制 ？ 
 
-![异步编程](./img/异步编程.png)
+![异步编程](http://ww3.sinaimg.cn/large/006tNc79ly1g44e2qc7n4j328c0ii43r.jpg)
 
 ## 内存控制
 
@@ -58,7 +58,7 @@
 4. 内存泄漏怎么办 ？ 怎么排查内存泄漏 ？
 5. 大内存应用都有哪些 ？
 
-![内存控制](./img/内存控制.png)
+![内存控制](http://ww3.sinaimg.cn/large/006tNc79ly1g44e31y981j32ok0kek03.jpg)
 
 ## 理解 Buffer
 
@@ -69,7 +69,7 @@
 3. Buffer 能拼接吗 ？ 有什么性能特点 ？
 4. Buffer 对性能有影响吗 ？
 
-![理解 Buffer](./img/理解%20Buffer.png)
+![理解 Buffer](http://ww2.sinaimg.cn/large/006tNc79ly1g44e3deuyxj327k0g6wjd.jpg)
 
 ## 网络编程
 
@@ -81,7 +81,7 @@
 4. 怎么构建 WebSocket 服务 ？
 5. 网络服务与安全 ？
 
-![网络编程](./img/网络编程.png)
+![网络编程](http://ww2.sinaimg.cn/large/006tNc79ly1g44e3q449sj32r80tyaim.jpg)
 
 ## 构建 Web 应用
 
@@ -93,7 +93,7 @@
 4. 中间件
 5. 模版渲染
 
-![构建Web应用](./img/构建%20Web%20应用.png)
+![构建Web应用](http://ww2.sinaimg.cn/large/006tNc79ly1g44e42git3j31o30u04ci.jpg)
 
 ## 玩转进程
 
@@ -104,7 +104,7 @@
 3. 如何保证集群的稳定性 ？
 4. cluster 是什么 ？ 为什么实现 ？
 
-![玩转进程](./img/玩转进程.png)
+![玩转进程](http://ww3.sinaimg.cn/large/006tNc79ly1g44e4fmuizj31te0u0dph.jpg)
 
 ## 测试
 
@@ -115,7 +115,7 @@
 3. 单元测试有哪些知识点 ？
 4. 性能测试有哪些知识点 ？
 
-![测试](./img/测试.png)
+![测试](http://ww2.sinaimg.cn/large/006tNc79ly1g44e4vzim2j31ub0u0tgk.jpg)
 
 ## 产品化
 
@@ -124,5 +124,5 @@
 1. 为什么要产品化 ？
 2. 产品化有哪些部分组成 ？
 
-![产品化](./img/产品化.png)
+![产品化](http://ww1.sinaimg.cn/large/006tNc79ly1g44e56omtwj31960u0n6z.jpg)
 
